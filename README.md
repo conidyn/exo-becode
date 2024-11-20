@@ -27,3 +27,5 @@ Je suis quelqu’un de plutôt **sympa** et **optimiste** dans la vie de tous le
 - **S’entraider**  
 - **Partager nos connaissances**
 
+![Mon GIF local](/gif%20denis.webp)
+
